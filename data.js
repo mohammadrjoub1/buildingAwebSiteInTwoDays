@@ -8,6 +8,7 @@ const CATEGORIES = [
   { name: "history", color: "#f97316" },
   { name: "news", color: "#8b5cf6" },
 ];
+
 const initialFacts = [
   {
     id: 1,
@@ -44,4 +45,4 @@ const initialFacts = [
 
 // LINK TO APP SAMPLE DATA: https://docs.google.com/spreadsheets/d/1eeldcA_OwP4DHYEvjG0kDe0cRys-cDPhc_E9P9G1e3I/edit#gid=0
 
-//
+// 👍 🤯 ⛔️
